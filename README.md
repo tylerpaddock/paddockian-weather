@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Env Setup
+## Env Setup
 Pretty standard setup, just run npx create-react-app paddockian-weather
 
 ## Available Scripts
